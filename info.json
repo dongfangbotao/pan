@@ -1,0 +1,144 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://zpan.saltbo.cn/",
+            "path": "index.html",
+            "saved": true,
+            "size": 3501,
+            "children": [
+                {
+                    "url": "https://zpan.saltbo.cn/js/chunk-vendors.24bcca13.js",
+                    "path": "js/chunk-vendors.24bcca13.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zpan.saltbo.cn/js/chunk-common.39dde4de.js",
+                    "path": "js/chunk-common.39dde4de.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://zpan.saltbo.cn/js/index.84bd0d64.js",
+                    "path": "js/index.84bd0d64.js",
+                    "saved": true,
+                    "size": 4942,
+                    "children": []
+                },
+                {
+                    "url": "https://zpan.saltbo.cn/css/chunk-vendors.0ddd2d7b.css",
+                    "path": "css/chunk-vendors.0ddd2d7b.css",
+                    "saved": true,
+                    "size": 245722,
+                    "children": [
+                        {
+                            "url": "https://zpan.saltbo.cn/fonts/element-icons.535877f5.woff",
+                            "path": "fonts/element-icons.535877f5.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://zpan.saltbo.cn/fonts/element-icons.732389de.ttf",
+                            "path": "fonts/element-icons.732389de.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://zpan.saltbo.cn/img/default-skin.b257fa9c.svg",
+                            "path": "img/default-skin.b257fa9c.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://zpan.saltbo.cn/css/chunk-common.fd380bbd.css",
+                    "path": "css/chunk-common.fd380bbd.css",
+                    "saved": true,
+                    "size": 6907,
+                    "children": [
+                        {
+                            "url": "https://at.alicdn.com/t/font_2113109_7bz8s7j187s.eot?t=1601822003589",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://at.alicdn.com/t/font_2113109_7bz8s7j187s.eot?t=1601822003589#iefix",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://at.alicdn.com/t/font_2113109_7bz8s7j187s.woff?t=1601822003589",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://at.alicdn.com/t/font_2113109_7bz8s7j187s.ttf?t=1601822003589",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://at.alicdn.com/t/font_2113109_7bz8s7j187s.svg?t=1601822003589#iconfont",
+                            "saved": false
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "alias": "zpan-saltbo-cn-3m8s9y5q",
+    "info": {
+        "remark": [],
+        "title": "ZPan",
+        "domain": "zpan.saltbo.cn",
+        "origin": "https://zpan.saltbo.cn",
+        "ip": "180.76.227.10",
+        "main": "index.html",
+        "url": "https://zpan.saltbo.cn/",
+        "totalSize": "261 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://zpan.saltbo.cn/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://zpan.saltbo.cn/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Wed, 05 Oct 2022 06:41:01 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "content-length": "3176",
+                "connection": "close",
+                "accept-ranges": "bytes",
+                "strict-transport-security": "max-age=15724800; includeSubDomains"
+            }
+        },
+        "time": {
+            "start": "2022-10-05T06:41:00.990Z",
+            "end": "2022-10-05T06:41:06.187Z"
+        }
+    },
+    "options": {
+        "url": "https://zpan.saltbo.cn/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
